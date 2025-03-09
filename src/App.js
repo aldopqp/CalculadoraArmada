@@ -1,4 +1,4 @@
-import RentalCalculator from "./RentalPriceCalculator";
+import RentalCalculator from "./components/RentalPriceCalculator";
 
 function App() {
   return (
